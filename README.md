@@ -128,20 +128,4 @@ Eliminates the need for expensive commercial DC energy meters while still provid
 
 User-Friendly Visualization
 
-# TABLE OF COMPONENTS REQUIRED & COST FOR THE PRODUCT
-
-
-| S.No | Component Name                             | Specification                       | Quantity | Approx. Cost (₹)         | Total (₹)  |
-| ---- | ------------------------------------------ | ----------------------------------- | -------- | ------------------------ | ---------- |
-| 1    | VSD Squadron Ultra                         | RISC -V                             | 1        | 350                      | 3000       |
-| 2    | 16-Bit ADC Module                          | High-Resolution ADC (e.g., ADS1115) | 1        | 450                      | 450        |
-| 3    | DC Voltage Sensor Module                   | 0–25V                               | 1        | 120                      | 120        |
-| 4    | DC Current Sensor                          | Hall Effect / Shunt Based           | 1        | 250                      | 250        |
-| 5    | 16x2 LCD Display                           | With I2C Module                     | 1        | 180                      | 180        |
-| 6    | Connecting Wires                           | Male–Male / Male–Female             | 1 Set    | 100                      | 100        |
-| 7    | PCB                                        | General Purpose                     | 1        | 150                      | 150        |
-| 8    | USB Cable                                  | For Programming & Serial Data       | 1        | 80                       | 80         |
-| 9    | Power Supply                               | 12V Regulated supply                | 1        | 200                      | 200        |
-| 10   | Load (Testing Purpose)                     | DC Load                             | 1        | 150                      | 150        |
-|      |                                            |                                     |          |                          |            |
-|      |                                            |                                     |          | **Estimated Total Cost** | **₹4,680** |
+<img width="1366" height="768" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/c6fd6853-9f3f-47cf-9fad-dfb64c36041d" />
