@@ -23,7 +23,7 @@ The current sensor measures the load current.
 
 The analog outputs from both sensors are converted into digital values using the 16-bit ADC.
 
-The microcontroller processes these digital values and calculates:
+The VSD ULTRA Board processes these digital values and calculates:
 
 Voltage (V)
 
@@ -32,6 +32,33 @@ Current (I)
 Power (P = V × I)
 
 Energy (E = ∑ P × Time)
+
+# VSD Squadron Ultra Board
+The VSD Squadron Ultra development board is the main controller used in the VSD DC Energy Meter DIY Kit. The board is based on the THEJAS32 RISC-V processor, which provides an open-source and efficient microcontroller platform for embedded system development.
+
+The VSD Ultra board is designed to support educational projects, hardware experimentation, and RISC-V learning. It provides essential interfaces such as GPIO, I²C, SPI, UART, and ADC connectivity, allowing easy integration with sensors, displays, and external modules.
+
+# THEJAS32 RISC-V Processor
+The THEJAS32 is a 32-bit RISC-V based processor core designed for embedded applications. It follows the RISC-V open instruction set architecture (ISA), which provides flexibility, modularity, and scalability for custom hardware development.
+
+Unlike proprietary microcontroller architectures, RISC-V is open-source, enabling researchers, students, and developers to study and build their own hardware systems.
+
+Key Features of THEJAS32 Processor
+
+32-Bit RISC-V Architecture
+Provides efficient instruction execution with a reduced instruction set.
+
+Open-Source ISA
+Based on the RISC-V architecture, allowing transparent hardware and software development.
+
+Embedded System Friendly
+Optimized for low-power and real-time embedded applications.
+
+Peripheral Interface Support
+Supports communication interfaces such as UART, SPI, I²C, and GPIO.
+
+High Processing Efficiency
+Suitable for real-time monitoring systems such as energy meters, IoT devices, and sensor-based applications.
 
 
 # FEATURES AND BENEFITES OF THE PRODUCT
