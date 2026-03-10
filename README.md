@@ -130,7 +130,7 @@ User-Friendly Visualization
 
 <img width="1366" height="768" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/c6fd6853-9f3f-47cf-9fad-dfb64c36041d" />
 
-- Out put
+#  Out put
 
 ![WhatsApp Image 2026-03-10 at 9 58 50 PM (1)](https://github.com/user-attachments/assets/061186c5-b00a-4106-9d70-9efe389ab4a3)
 
