@@ -5,11 +5,16 @@ TEAM RANA
 # INTRODUCTION  
 The VSD DC Energy Meter DIY Kit is developed to measure electrical parameters such as voltage, current, power, and energy consumption in DC systems. A real-time graphical dashboard is designed using Processing software to visualize the measured data. The Processing application communicates with the DC energy meter through serial communication and displays the data in a clear and user-friendly format. This standalone approach does not require IoT or internet connectivity, making the system simple, reliable, and cost-effective for educational, laboratory, and DC energy monitoring applications.
 
+![WhatsApp Image 2026-03-10 at 22 26 15](https://github.com/user-attachments/assets/e473d390-a540-4dd2-9489-f0438ac03c06)
+
+
 # OVER VIEW OF PRODUCT
 
 The VSD DC Energy Meter DIY Kit is an educational project designed to help students understand the fundamentals of DC electrical measurements, including voltage, current, power, and energy calculation. This kit provides hands-on experience in building and testing a real-time DC energy monitoring system.
 The system measures DC voltage and current using appropriate sensors interfaced with a microcontroller. Based on these measurements, the kit calculates power (P = V × I) and total energy consumption over time. The real-time data is displayed on a local display and also transmitted to a computer via serial communication.
 Instead of using WiFi or cloud-based IoT dashboards, this kit utilizes Processing software to create a desktop graphical interface. The Processing application visualizes voltage, current, power, and energy in real time using digital readings and dynamic graphs. This helps students clearly understand how electrical parameters change under different load conditions.
+
+![WhatsApp Image 2026-03-10 at 22 26 26](https://github.com/user-attachments/assets/16880602-4912-45fd-827d-225a8bc603a7)
 
 # OPERATAION OF THE SYSTEM
 The DIY DC Energy Meter Kit is an educational hardware and software solution designed to measure and analyze DC electrical parameters with high accuracy. The system directly measures voltage and current using dedicated voltage and current sensors, instead of using traditional pulse-based energy measurement techniques.
@@ -126,13 +131,14 @@ Serial communication
 Cost-Effective Solution
 Eliminates the need for expensive commercial DC energy meters while still providing essential measurement capabilities.
 
+#  Output of the Kit
 User-Friendly Visualization
 
 <img width="1366" height="768" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/c6fd6853-9f3f-47cf-9fad-dfb64c36041d" />
 
-#  Out put
 
-![WhatsApp Image 2026-03-10 at 9 58 50 PM (1)](https://github.com/user-attachments/assets/061186c5-b00a-4106-9d70-9efe389ab4a3)
 
-![WhatsApp Image 2026-03-10 at 9 58 50 PM](https://github.com/user-attachments/assets/01b452c7-7c3f-4a92-8d01-ef63ddc26e2e)
+
+
+
 
